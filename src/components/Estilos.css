@@ -1,0 +1,15 @@
+.bordes {
+  margin: 25px;
+  border-style: groove;
+  align-content: center;
+  text-align: center
+}
+
+button {
+  height: 60px;
+  width: 60px;
+  font-size: 40px;
+  background-color: blue;
+  color: white;
+  border-radius: 10pt
+}
